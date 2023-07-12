@@ -1,0 +1,15 @@
+C:\Programming\ITOGOVAYA\itogovaya1\bin\Debug\net7.0\itogovaya1.exe
+C:\Programming\ITOGOVAYA\itogovaya1\bin\Debug\net7.0\itogovaya1.deps.json
+C:\Programming\ITOGOVAYA\itogovaya1\bin\Debug\net7.0\itogovaya1.runtimeconfig.json
+C:\Programming\ITOGOVAYA\itogovaya1\bin\Debug\net7.0\itogovaya1.dll
+C:\Programming\ITOGOVAYA\itogovaya1\bin\Debug\net7.0\itogovaya1.pdb
+C:\Programming\ITOGOVAYA\itogovaya1\obj\Debug\net7.0\itogovaya1.csproj.AssemblyReference.cache
+C:\Programming\ITOGOVAYA\itogovaya1\obj\Debug\net7.0\itogovaya1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\ITOGOVAYA\itogovaya1\obj\Debug\net7.0\itogovaya1.AssemblyInfoInputs.cache
+C:\Programming\ITOGOVAYA\itogovaya1\obj\Debug\net7.0\itogovaya1.AssemblyInfo.cs
+C:\Programming\ITOGOVAYA\itogovaya1\obj\Debug\net7.0\itogovaya1.csproj.CoreCompileInputs.cache
+C:\Programming\ITOGOVAYA\itogovaya1\obj\Debug\net7.0\itogovaya1.dll
+C:\Programming\ITOGOVAYA\itogovaya1\obj\Debug\net7.0\refint\itogovaya1.dll
+C:\Programming\ITOGOVAYA\itogovaya1\obj\Debug\net7.0\itogovaya1.pdb
+C:\Programming\ITOGOVAYA\itogovaya1\obj\Debug\net7.0\itogovaya1.genruntimeconfig.cache
+C:\Programming\ITOGOVAYA\itogovaya1\obj\Debug\net7.0\ref\itogovaya1.dll
