@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="777sa"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-10-06 08:27:35 "/>
+        <attribute name="created" value="Nzc3c2E7QUxFWDIyOzIwMjMtMTAtMDY7IjA3OjU0OjE3ICI7MTk2OA=="/>
+        <attribute name="edited" value="Nzc3c2E7QUxFWDIyOzIwMjMtMTAtMDY7IjA4OjI3OjM1ICI7MTsyMDc3"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <input variable="TEXT"/>
+            <assign variable="array1" expression="TEXT"/>
+            <for variable="count" start="" end="" direction="inc" step="1">
+                <if expression="arraylenghts &lt;= 3">
+                    <then>
+                        <assign variable="count" expression="array2"/>
+                        <assign variable="count" expression="count+1"/>
+                    </then>
+                    <else/>
+                </if>
+            </for>
+            <assign variable="result" expression="array2"/>
+            <output expression="result" newline="False"/>
+        </body>
+    </function>
+</flowgorithm>
