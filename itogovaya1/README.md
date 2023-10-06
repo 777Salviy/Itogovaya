@@ -5,4 +5,6 @@
 
 1. void ArrayFilter (string[] array1, string[] array2): Это объявление функции ArrayFilter, которая принимает два аргумента: array1 и array2. Эта функция фильтрует строки из array1 по их длине и сохраняет отфильтрованные строки в array2
 
-2.
+2. void PrintArray(string[] array): Это объявление функции PrintArray, которая принимает один аргумент array. Эта функция выводит на консоль содержимое массива строк array.
+
+
