@@ -34,3 +34,5 @@ void Main()
     ArrayFilter(array1, array2);
     PrintArray(array2);
 }
+
+Main();
