@@ -2,17 +2,16 @@
 // либо равна 3 символам. Первоначальный массив можно ввести с клавиатуры, либо задать на старте выполнения алгоритма. 
 // При решении не рекомендуется пользоваться коллекциями, лучше обойтись исключительно массивами.
 
-void Main()
+void ArrayFilter (string[] array1, string[] array2)
 {
-    string message = "Привет, мир!";
-    ProcessMessage(message);
-}
-
-void ProcessMessage(string message)
-{
-    Console.WriteLine("Вы ввели следующий текст:");
-    Console.WriteLine(message);
-
-    Console.ReadLine(); // Для предотвращения закрытия консоли сразу после вывода текста
+    int count = 0;
+    for (int i = 0; i < array1.Length; i++)
+    {
+        if (array1[i].Length <= 3)
+        {
+            array2[count] = array1[i];
+            count++;
+        }
+    }
 }
 
