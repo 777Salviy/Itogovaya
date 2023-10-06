@@ -24,3 +24,13 @@ void PrintArray(string[] array)
     }
 }
 
+void Main()
+{
+    Console.WriteLine("Введите массив строк, разделенных пробелами:");
+    string input = Console.ReadLine();
+    string[] array1 = input.Split(' ');
+
+    string[] array2 = new string[array1.Length];
+    ArrayFilter(array1, array2);
+    PrintArray(array2);
+}
